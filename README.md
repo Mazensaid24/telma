@@ -12,5 +12,4 @@ Fork Deploy is highly recommended
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
-   - [@ZThon](https://t.me/ZThon)
-   - [@Zelzal](https://t.me/zzzzl1l)
+   - [@mazen](https://t.me/ZzZzZl1l)
