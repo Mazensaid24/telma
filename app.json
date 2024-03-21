@@ -9,11 +9,11 @@
   "env": {
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
-      "value": "12822843"
+      "value": "22861564"
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "689f3bfcefe86a6a3dffe6830baf1010"
+      "value": "d21d3241e065ab83a101b10fd750201b"
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
